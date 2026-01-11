@@ -1,0 +1,1 @@
+console.log("This is a test file for the .devcontainer/01_basics directory.");
